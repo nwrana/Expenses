@@ -1,0 +1,165 @@
+#########HOME EXPENSES
+
+#Load Library
+library(dplyr)
+
+
+url <- "C:/Users/w15psnnw/Desktop"
+setwd(url)
+data <- read.csv("Expenditures 2017 - Sheet1.csv", header = TRUE, stringsAsFactors = FALSE)
+
+
+#trim leading white space
+for(i in c(2,4,5,6,7,8,9)) {
+	data[,i] <- sapply(data[, i], function(x){ trimws(x)}) 
+}
+
+#convert columns classes
+data$Amount <- as.numeric(data$Amount)
+
+cols <- c('Year','Month','Month.Numeric','Owner','Payment.Source','Maj.cat','Sub.cat.1','Sub.cat.2','Name')
+data.update <- data %>%
+	mutate_each_(funs(factor(.)), cols)
+
+
+##################################
+
+#Filter rows using dplyr
+noCapex <- data.update %>%
+	filter(Maj.cat != 'CAPEX')
+	droplevels(.)
+
+
+barplot(noCapex$Amount, names.arg = noCapex$Maj.cat
+
+#boxplot
+plot(noCapex$Amount ~ noCapex$Maj.cat)
+
+
+
+####FOOD TOTAL
+
+#barplot 
+food <- data.update %>%
+	filter(Maj.cat == 'Food') %>%
+	group_by(Sub.cat.1) %>%
+	summarize(Total = sum(Amount), Count = n()) %>%
+	droplevels(.) %>%
+	as.data.frame(.)
+
+food.general <- food %>%
+	mutate(Ratio = round(Total/Count, 1)) 
+
+#barplot(food$Total, names.arg = food$Sub.cat.1, main = 'FOOD - Breakdown', ylim = c(0,8000))
+
+ylim = c(0, 1.1*max(food.general$Total))
+xx <- barplot(food.general$Total, xaxt = 'n', xlab = '', width = 0.85, ylim = ylim, 
+	main = 'Food Breakdown', 
+	ylab = 'Annual Total ($)')
+text(x = xx, y = food.general$Total, labels = food.general$Ratio, pos = 3, cex = 0.8, col='red')
+axis(1, at=xx, labels = food.general$Sub.cat.1, tick=FALSE, las=2, line=-0.5, cex.axis=0.8)
+
+
+
+#Boxplot of individual transactions
+food.box <- data.update %>%
+	filter(Maj.cat == 'Food') %>%
+	droplevels(.)
+
+boxplot(food.box$Amount~food.box$Sub.cat.1,
+	main = 'Food: Spread of Individual Transactions',
+	xlab = 'Food Subcategory',
+	ylab = 'Total ($/transaction)')
+
+
+
+####RESTAURANTS
+
+restaurant <- data.update %>%
+	filter(Sub.cat.1 == 'Restaurant') %>%
+	group_by(Name) %>%
+	summarize(Total = sum(Amount), Count = n()) %>%
+	as.data.frame(.)
+
+restaurant <- restaurant %>%
+	mutate(Ratio = round(Total/Count, 1))
+
+restaurant.top10 <- arrange(restaurant, desc(Total))[1:10,]
+
+ylim = c(0, 1.1*max(restaurant.top10$Total))
+xx <- barplot(restaurant.top10$Total, xaxt = 'n', xlab = '', width = 0.85, ylim = ylim, 
+	main = 'Food Summary: Restaurants Top 10', 
+	ylab = 'Annual Total ($)')
+text(x = xx, y = restaurant.top10$Total, labels = restaurant.top10$Ratio, pos = 3, cex = 0.8, col='red')
+axis(1, at=xx, labels = restaurant.top10$Name, tick=FALSE, las=2, line=-0.5, cex.axis=0.8)
+
+####GROCERY
+
+
+grocery <- data.update %>%
+	filter(Sub.cat.1 == 'Grocery') %>%
+	group_by(Name) %>%
+	summarize(Total = sum(Amount), Count = n()) %>%
+	as.data.frame(.)
+
+grocery <- grocery %>%
+	mutate(Ratio = round(Total/Count, 1))
+
+grocery.ordered <- arrange(grocery, desc(Total))
+
+ylim = c(0, 1.1*max(grocery.ordered$Total))
+xx <- barplot(grocery.ordered$Total, xaxt = 'n', xlab = '', width = 0.85, ylim = ylim, main = 'Food Summary: Groceries', ylab = 'Annual Total ($)')
+text(x = xx, y = grocery.ordered$Total, labels = grocery.ordered$Ratio, pos = 3, cex = 0.8, col='red')
+axis(1, at=xx, labels = grocery.ordered$Name, tick=FALSE, las=2, line=-0.5, cex.axis=0.8)
+
+
+####FAST FOOD
+
+fast.food <- data.update %>%
+	filter(Sub.cat.1 == 'Fast Food') %>%
+	group_by(Name) %>%
+	summarize(Total = sum(Amount), Count = n()) %>%
+	as.data.frame(.)
+	
+fast.food <- fast.food %>%
+	mutate(Ratio = round(Total/Count, 1))
+
+fast.food.top10 <- arrange(fast.food, desc(Total))[1:10,]
+
+ylim = c(0, 1.1*max(fast.food.top10$Total))
+xx <- barplot(fast.food.top10$Total, xaxt = 'n', xlab = '', width = 0.85, ylim = ylim, main = 'Food Summary: Fast Food', ylab = 'Annual Total ($)')
+text(x = xx, y = fast.food.top10$Total, labels = fast.food.top10$Ratio, pos = 3, cex = 0.8, col='red')
+axis(1, at=xx, labels = fast.food.top10$Name, tick=FALSE, las=2, line=-0.5, cex.axis=0.8)
+
+###INCLUDE COFFEE
+
+target <- c('Tim Hortons', 'McDonalds')
+coffee <- data.update %>%
+	filter(Name %in% target) %>%
+	droplevels(.)
+
+starbucks <- data.update %>%
+	filter(Name == 'Starbucks', Sub.cat.2 == 'Coffee', Owner == 'Nathan') %>%
+	droplevels(.)
+
+coffee.mcd <- 1.8 * (table(coffee$Name)[[1]])
+coffee.tim <- 1.8 * (table(coffee$Name)[[2]])
+coffee.star <- sum(starbucks$Amount)
+coffee.total <- coffee.mcd + coffee.tim + coffee.star
+
+#new table
+fast.food.coffee <- fast.food.top10
+
+fast.food.coffee[1,2] <- fast.food.top10[1,2] - coffee.tim 
+fast.food.coffee[3,2] <- fast.food.top10[3,2] - coffee.mcd
+fast.food.coffee[6,2] <- fast.food.top10[6,2] - coffee.star
+
+fast.food.coffee.bar <- rbind(fast.food.coffee[, 1:2], data.frame(Name = 'Coffee', Total = coffee.total))
+
+
+ylim = c(0, 1.1*max(fast.food.coffee.bar$Total))
+xx <- barplot(fast.food.coffee.bar$Total, xaxt = 'n', xlab = '', width = 0.85, ylim = ylim, main = 'Food Summary: Fast Food incl. Coffee', ylab = 'Annual Total ($)')
+#text(x = xx, y = fast.food.coffee.bar$Total, labels = fast.food.top10$Ratio, pos = 3, cex = 0.8, col='red')
+axis(1, at=xx, labels = fast.food.coffee.bar$Name, tick=FALSE, las=2, line=-0.5, cex.axis=0.8)
+
+barplot(fast.food.coffee$Total, names.arg = fast.food.coffee$Name, ylim = c(0,max(fast.food.coffee$Total)))

@@ -1,0 +1,1144 @@
+Year,Month,Month.Numeric,Owner,Payment.Source,Maj.cat,Sub.cat.1,Sub.cat.2,Name,Amount
+2017,March,3,Nathan ,VISA,Food,Fast Food,Lunch,Winpak,6.22
+2017,March,3,Nathan ,VISA,Food,Fast Food,Lunch,Winpak,7.06
+2017,March,3,Nathan ,VISA,Food,Fast Food,Lunch,Winpak,8.81
+2017,March,3,Nathan ,VISA,Food,Fast Food,Coffee,Winpak,2.15
+2017,March,3,Nathan ,VISA,Food,Fast Food,Lunch,Winpak,8.25
+2017,March,3,Nathan ,VISA,Food,Fast Food,Lunch,Winpak,7.74
+2017,March,3,Nathan ,VISA,Food,Fast Food,Lunch,Winpak,3.06
+2017,March,3,Nathan ,VISA,Food,Fast Food,Lunch,Winpak,8.59
+2017,March,3,Nathan ,VISA,Food,Fast Food,Lunch,Winpak,8.76
+2017,March,3,Nathan ,VISA,Food,Fast Food,Lunch,Winpak,8.59
+2017,March,3,Nathan ,VISA,Food,Fast Food,Coffee,Winpak,1.36
+2017,March,3,Nathan ,VISA,Food,Fast Food,Lunch,Winpak,10.29
+2017,March,3,Nathan ,VISA,Food,Fast Food,Lunch,Winpak,7.74
+2017,March,3,Nathan ,VISA,Food,Fast Food,Lunch,Winpak,8.25
+2017,March,3,Nathan ,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.44
+2017,March,3,Nathan ,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,March,3,Nathan ,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2017,March,3,Nathan ,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2017,March,3,Nathan ,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.37
+2017,March,3,Nathan ,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.37
+2017,March,3,Nathan ,VISA,Food,Fast Food,Lunch,Tim Hortons,7.35
+2017,March,3,Nathan ,VISA,Food,Fast Food,Breakfast,Tim Hortons,2.92
+2017,March,3,Nathan ,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.37
+2017,March,3,Nathan ,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.37
+2017,March,3,Nathan ,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2017,March,3,Nathan ,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,March,3,Nathan ,VISA,Food,Fast Food,Coffee,McDonalds,1.57
+2017,March,3,Nathan ,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,March,3,Nathan ,VISA,Food,Fast Food,Coffee,McDonalds,1.68
+2017,March,3,Nathan ,VISA,Food,Fast Food,Coffee,McDonalds,1.57
+2017,March,3,Nathan ,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2017,March,3,Nathan ,VISA,Personal,Haircut,,The Shop,42.25
+2017,March,3,Nathan ,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,March,3,Nathan ,VISA,Food,Fast Food,Breakfast,McDonalds,5.63
+2017,March,3,Nathan ,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2017,March,3,Nathan ,VISA,Personal,Hygeine,,Shoppers,11.33
+2017,March,3,Nathan ,VISA,House,Renovations,,Home Depot,77.26
+2017,March,3,Nathan ,VISA,House,Renovations,,Home Depot,580.21
+2017,March,3,Nathan ,VISA,House,Renovations,,Home Depot,17.39
+2017,March,3,Nathan ,VISA,House,Renovations,,Home Depot,50.42
+2017,March,3,Nathan ,VISA,House,Renovations,,Home Depot,67.26
+2017,March,3,Nathan ,VISA,House,Renovations,,Home Depot,-15.68
+2017,March,3,Nathan ,VISA,House,Renovations,,Home Depot,167.78
+2017,March,3,Nathan ,VISA,House,Renovations,,Home Depot,-13.55
+2017,March,3,Nathan ,VISA,Food,Fast Food,Supper,Pita Pit,20.87
+2017,March,3,Nathan ,VISA,Food,Fast Food,Supper,Pita Pit,24.14
+2017,March,3,Nathan ,VISA,Food,Restaurant,Supper,Korean,32.23
+2017,March,3,Nathan ,VISA,House,Renovations,,Rona,147.77
+2017,March,3,Nathan ,VISA,House,Renovations,,Windsor Plywood,44.69
+2017,March,3,Nathan ,VISA,House,Renovations,,Windsor Plywood,14.67
+2017,March,3,Nathan ,VISA,Transportation,Gas,,Esso,43.22
+2017,March,3,Nathan ,VISA,Transportation,Gas,,Esso,41.12
+2017,March,3,Nathan ,VISA,Transportation,Gas,,Esso,41.90
+2017,March,3,Nathan ,VISA,Entertainment,Photography ,,ITunes,1.35
+2017,March,3,Nathan ,VISA,Food,Fast Food,Lunch,Subway,13.10
+2017,March,3,Nathan ,VISA,Food,Restaurant,Supper,Golden Loong,50.10
+2017,March,3,Nathan ,VISA,House,Renovations,,Dump Bin,195.25
+2017,March,3,Nathan ,VISA,House,Renovations,,Dump Bin,140.62
+2017,March,3,Nathan ,VISA,Transportation,Insurance,,MPI,57.00
+2017,March,3,Nathan ,VISA,Food,Fast Food,Lunch,Subway,13.10
+2017,March,3,Nathan ,VISA,Food,Fast Food,Dessert,Dairy Queen,9.02
+2017,March,3,Nathan ,VISA,House,Cable/Internet,,Shaw,136.73
+2017,March,3,Nathan ,VISA,Entertainment,Movie,,Cineplex,39.98
+2017,March,3,Nathan ,VISA,Entertainment,Sports,Travel,Astros,45.41
+2017,March,3,Nathan ,VISA,Entertainment,Music,,Spotify,9.99
+2017,March,3,Nathan ,VISA,House,Insurance,,The Personal,1150.20
+2017,March,3,Nathan ,VISA,Personal,Hygeine,,Pharmacy,25.95
+2017,March,3,Nathan ,VISA,Entertainment,Sports,,Curling Club,23.25
+2017,March,3,Nathan ,VISA,Entertainment,Sports,,Curling Club,23.25
+2017,March,3,Nathan ,VISA,House,Renovations,Foundation,Bock White,151.89
+2017,March,3,Nathan ,VISA,House,Renovations,Registry,Winnipeg,240.00
+2017,March,3,Nathan ,VISA,Entertainment,Alcohol,,LiquorMart,23.75
+2017,March,3,Nathan ,VISA,Food,Grocery,,Superstore,39.94
+2017,March,3,Nathan ,VISA,Food,Grocery,,Safeway,21.78
+2017,March,3,Nathan ,VISA,Food,Grocery,,Superstore,39.94
+2017,March,3,Nathan ,VISA,CAPEX,Appliances,Water Heater,All City,1248.00
+2017,April,4,Nathan,VISA,Entertainment,Photography ,,ITunes,1.35
+2017,April,4,Nathan,VISA,Food,Grocery,,Superstore,121.29
+2017,April,4,Nathan,VISA,Food,Grocery,,Chinese,68.33
+2017,April,4,Nathan,VISA,Food,Grocery,,Safeway,7.90
+2017,April,4,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.25
+2017,April,4,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.79
+2017,April,4,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.59
+2017,April,4,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.25
+2017,April,4,Nathan,VISA,Food,Fast Food,Lunch,Winpak,6.90
+2017,April,4,Nathan,VISA,Food,Fast Food,Lunch,Winpak,5.60
+2017,April,4,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.76
+2017,April,4,Nathan,VISA,Food,Fast Food,Coffee,Winpak,1.36
+2017,April,4,Nathan,VISA,Food,Fast Food,Lunch,Winpak,7.63
+2017,April,4,Nathan,VISA,Food,Fast Food,Lunch,Winpak,4.41
+2017,April,4,Nathan,VISA,Food,Fast Food,Lunch,Winpak,5.60
+2017,April,4,Nathan,VISA,Food,Fast Food,Coffee,Winpak,1.70
+2017,April,4,Nathan,VISA,Food,Fast Food,Lunch,Winpak,6.73
+2017,April,4,Nathan,VISA,Food,Fast Food,Coffee,Winpak,1.36
+2017,April,4,Nathan,VISA,Food,Fast Food,Coffee,Winpak,1.58
+2017,April,4,Nathan,VISA,Food,Fast Food,Lunch,McDonalds,8.00
+2017,April,4,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,April,4,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2017,April,4,Nathan,VISA,Food,Fast Food,Breakfast,McDonalds,2.49
+2017,April,4,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.57
+2017,April,4,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,April,4,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,April,4,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2017,April,4,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2017,April,4,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,April,4,Nathan,VISA,Food,Fast Food,Lunch,Tim Hortons,9.12
+2017,April,4,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2017,April,4,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.37
+2017,April,4,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.37
+2017,April,4,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.37
+2017,April,4,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.37
+2017,April,4,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,April,4,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,April,4,Nathan,VISA,Food,Fast Food,Lunch,Tim Hortons,9.62
+2017,April,4,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.37
+2017,April,4,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2017,April,4,Nathan,VISA,Food,Fast Food,Lunch,Tim Hortons,8.17
+2017,April,4,Nathan,VISA,Personal,Credit Card,Annual Fee,VISA,120.00
+2017,April,4,Nathan,VISA,Food,Restaurant,Supper,Simon's Cuisine,9.21
+2017,April,4,Nathan,VISA,Food,Fast Food ,Lunch ,Tall Grass Prairie,7.30
+2017,April,4,Nathan,VISA,Food,Fast Food,Junk ,Max,2.73
+2017,April,4,Nathan,VISA,House,Renovations,,Rona,61.89
+2017,April,4,Nathan,VISA,Food,Grocery,,Safeway,40.57
+2017,April,4,Nathan,VISA,Transportation,Gas,,Esso,40.71
+2017,April,4,Nathan,VISA,Food,Restaurant,Lunch ,Stellas,20.01
+2017,April,4,Nathan,VISA,Food,Restaurant,Lunch ,Stellas,34.72
+2017,April,4,Nathan,VISA,House,Renovations,,Canadian Tire,31.62
+2017,April,4,Nathan,VISA,Food,Fast Food,Lunch ,Subway,10.16
+2017,April,4,Nathan,VISA,House,Renovations,Registry,Winnipeg,-120.00
+2017,April,4,Nathan,VISA,Food,Grocery,,Safeway,57.63
+2017,April,4,Nathan,VISA,Entertainment,Alcohol,,Barley Bros,22.49
+2017,April,4,Nathan,VISA,Food,Restaurant,Supper,Wasabi,33.90
+2017,April,4,Nathan,VISA,Transportation,Gas,,Esso,37.53
+2017,April,4,Nathan,VISA,Food,Fast Food,Lunch ,Subway,10.04
+2017,April,4,Nathan,VISA,Entertainment,Music,,Spotify,9.99
+2017,April,4,Nathan,VISA,Food,Fast Food,Lunch ,Pita Pit,21.89
+2017,April,4,Nathan,VISA,Entertainment,Alcohol,,Torque,32.65
+2017,April,4,Nathan,VISA,Personal,Hygeine,,Shoppers,13.53
+2017,April,4,Nathan,VISA,Food,Restaurant,Supper,Victoria Seafood,40.10
+2017,April,4,Nathan,VISA,House,Cable/Internet,,Shaw,136.73
+2017,April,4,Nathan,VISA,Entertainment,Game,,Across the Board,49.62
+2017,April,4,Nathan,VISA,Entertainment,Movie,,Cineplex,5.40
+2017,May,5,Nathan,VISA,Food,Fast Food,Coffee,Starbucks,2.77
+2017,May,5,Nathan,VISA,Food,Fast Food,Lunch,Winpak,7.06
+2017,May,5,Nathan,VISA,Food,Fast Food,Coffee,Winpak,1.36
+2017,May,5,Nathan,VISA,Food,Fast Food,Coffee,Winpak,1.36
+2017,May,5,Nathan,VISA,Food,Fast Food,Lunch,Winpak,10.29
+2017,May,5,Nathan,VISA,Food,Fast Food,Coffee,Winpak,1.36
+2017,May,5,Nathan,VISA,Food,Fast Food,Lunch,Winpak,10.29
+2017,May,5,Nathan,VISA,Food,Fast Food,Lunch,Winpak,2.15
+2017,May,5,Nathan,VISA,Food,Fast Food,Lunch,Winpak,2.15
+2017,May,5,Nathan,VISA,Food,Fast Food,Lunch,Winpak,18.42
+2017,May,5,Nathan,VISA,Food,Fast Food,Lunch,Winpak,4.29
+2017,May,5,Nathan,VISA,Food,Fast Food,Lunch,Winpak,16.72
+2017,May,5,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.76
+2017,May,5,Nathan,VISA,Food,Fast Food,Lunch,Winpak,6.22
+2017,May,5,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,May,5,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,May,5,Nathan,VISA,Food,Fast Food,Lunch,Tim Hortons,8.49
+2017,May,5,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,May,5,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,May,5,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,May,5,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,May,5,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,May,5,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,May,5,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2017,May,5,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2017,May,5,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2017,May,5,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,May,5,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2017,May,5,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,May,5,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.41
+2017,May,5,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2017,May,5,Nathan,VISA,Food,Restaurant,Supper,Clay Oven,59.84
+2017,May,5,Nathan,VISA,Food,Restaurant,Supper,Korean,32.47
+2017,May,5,Nathan,VISA,Food,Restaurant,Supper,Korean,60.57
+2017,May,5,Nathan,VISA,Personal,Education,,Udemy,30.00
+2017,May,5,Nathan,VISA,Personal,Haircut,,The Shop,42.25
+2017,May,5,Nathan,VISA,Entertainment,Music,,Band Camp,362.80
+2017,May,5,Nathan,VISA,Food,Grocery,,Safeway,38.47
+2017,May,5,Nathan,VISA,Food,Grocery,,Safeway,44.49
+2017,May,5,Nathan,VISA,Food,Grocery,,Sobeys,6.20
+2017,May,5,Nathan,VISA,Personal,Misc,,PharmaPlus,14.92
+2017,May,5,Nathan,VISA,Entertainment,Music,,Spotify,9.99
+2017,May,5,Nathan,VISA,House,Baby,,Etsy,208.99
+2017,May,5,Nathan,VISA,House,Baby,,Toys R Us,35.64
+2017,May,5,Nathan,VISA,House,Cable/Internet,,Shaw,136.73
+2017,May,5,Nathan,VISA,House,Renovations,,Home Depot,164.44
+2017,May,5,Nathan,VISA,House,Renovations,,Home Depot,141.82
+2017,May,5,Nathan,VISA,Entertainment,Music,,Vinyl Revival,4.52
+2017,May,5,Nathan,VISA,Entertainment,Gift,Flowers,Anything Grows,65.54
+2017,May,5,Nathan,VISA,Entertainment,Gift,Flowers,Anything Grows,65.54
+2017,May,5,Nathan,VISA,Transportation,Gas,,Coop,26.80
+2017,May,5,Nathan,VISA,Transportation,Gas,,Coop,73.00
+2017,May,5,Nathan,VISA,Transportation,Parking,,Parking,6.75
+2017,May,5,Nathan,VISA,Transportation,Parking,,Parking,5.00
+2017,May,5,Nathan,VISA,Transportation,Parking,,Parking,7.00
+2017,May,5,Nathan,VISA,Entertainment,Photography ,,ITunes,1.35
+2017,May,5,Nathan,VISA,House,Baby,,Prenatal Class,137.00
+2017,May,5,Nathan,VISA,House,Renovations,,Ikea,5.65
+2017,May,5,Nathan,VISA,House,Renovations,,Canadian Tire,29.00
+2017,June,6,Nathan,VISA,Food,Fast Food,Coffee,Winpak,1.36
+2017,June,6,Nathan,VISA,Food,Fast Food,Lunch,Winpak,7.74
+2017,June,6,Nathan,VISA,Food,Fast Food,Lunch,Winpak,5.60
+2017,June,6,Nathan,VISA,Food,Fast Food,Lunch,Winpak,6.73
+2017,June,6,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.25
+2017,June,6,Nathan,VISA,Food,Fast Food,Coffee,Winpak,1.36
+2017,June,6,Nathan,VISA,Food,Fast Food,Coffee,Winpak,1.36
+2017,June,6,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.76
+2017,June,6,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.59
+2017,June,6,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,June,6,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,June,6,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,June,6,Nathan,VISA,Food,Fast Food,Supper,Tim Hortons,17.38
+2017,June,6,Nathan,VISA,Food,Fast Food,Supper,Tim Hortons,11.44
+2017,June,6,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,June,6,Nathan,VISA,Food,Fast Food,Supper,Tim Hortons,11.73
+2017,June,6,Nathan,VISA,Food,Fast Food,Lunch,Tim Hortons,6.53
+2017,June,6,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,June,6,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.26
+2017,June,6,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2017,June,6,Nathan,VISA,Food,Fast Food,Lunch,McDonalds,12.63
+2017,June,6,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2017,June,6,Nathan,VISA,Food,Fast Food,Breakfast,McDonalds,5.06
+2017,June,6,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2017,June,6,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,June,6,Nathan,VISA,Entertainment,Photography ,,ITunes,1.35
+2017,June,6,Nathan,VISA,Food,Fast Food,Coffee,Starbucks,2.77
+2017,June,6,Nathan,VISA,Food,Fast Food,Coffee,Starbucks,2.77
+2017,June,6,Nathan,VISA,Transportation,Gas,,Esso,40.04
+2017,June,6,Nathan,VISA,Transportation,Gas,,Esso,22.03
+2017,June,6,Nathan,VISA,Transportation,Gas,,Esso,30.46
+2017,June,6,Nathan,VISA,Transportation,Gas,,Esso,17.48
+2017,June,6,Nathan,VISA,Entertainment,Gas,Travel,Coop,40.03
+2017,June,6,Nathan,VISA,Entertainment,Gas,Travel,Pelican Landing,26.64
+2017,June,6,Nathan,VISA,Entertainment,Gas,Travel,Coop,68.54
+2017,June,6,Nathan,VISA,Entertainment,Gas,Travel,Ashern,22.01
+2017,June,6,Nathan,VISA,Entertainment,Gas,Travel,Ashern,25.26
+2017,June,6,Nathan,VISA,Entertainment,Gas,Travel,Wabowden,20.00
+2017,June,6,Nathan,VISA,Entertainment,Gas,Travel,Grand Rapids,30.19
+2017,June,6,Nathan,VISA,Transportation,Gas,,Esso,10.83
+2017,June,6,Nathan,VISA,Transportation,Gas,,Esso,9.69
+2017,June,6,Nathan,VISA,Transportation,Gas,,Petro Canada,23.73
+2017,June,6,Nathan,VISA,Transportation,Gas,,Petro Canada,15.04
+2017,June,6,Nathan,VISA,House,Renovations,,Rona,16.37
+2017,June,6,Nathan,VISA,House,Renovations,,Rona,143.46
+2017,June,6,Nathan,VISA,House,Renovations,,Rona,36.85
+2017,June,6,Nathan,VISA,House,Renovations,,Rona,24.92
+2017,June,6,Nathan,VISA,House,Renovations,,Rona,87.88
+2017,June,6,Nathan,VISA,House,Renovations,,Canadian Tire,181.15
+2017,June,6,Nathan,VISA,House,Renovations,,Home Depot,131.20
+2017,June,6,Nathan,VISA,House,Renovations,Air Conditioner,Balcaen and Sons,222.01
+2017,June,6,Nathan,VISA,Food,Grocery,,Safeway,28.63
+2017,June,6,Nathan,VISA,Food,Grocery,,Sobeys,9.50
+2017,June,6,Nathan,VISA,House,Renovations,,Canadian Tire,-17.00
+2017,June,6,Nathan,VISA,Entertainment,Music,,Spotify,9.99
+2017,June,6,Nathan,VISA,Personal,Haircut,,The Shop,42.26
+2017,June,6,Nathan,VISA,House,Renovations,,Canadian Tire,46.06
+2017,June,6,Nathan,VISA,House,Renovations,Cat6 Cable,Memory Express,225.99
+2017,June,6,Nathan,VISA,Entertainment,Misc,Travel,Paint Lake,32.14
+2017,June,6,Nathan,VISA,CAPEX,Appliances,Washer/Dryer,Bust Buy,1861.76
+2017,June,6,Nathan,VISA,Transportation,Parking,,Parking,3.00
+2017,June,6,Nathan,VISA,House,Renovations,,Home Depot,337.87
+2017,June,6,Nathan,VISA,Food,Restaurant,Supper,Marquee,98.76
+2017,June,6,Nathan,VISA,Food,Restaurant,Supper,Argentina Pizza,44.18
+2017,June,6,Nathan,VISA,Food,Restaurant,Supper,Harvest Bakery,8.13
+2017,June,6,Nathan,VISA,Food,Fast Food,Junk ,Dairy Queen,5.65
+2017,June,6,Nathan,VISA,Food,Fast Food,Junk ,Dairy Queen,14.65
+2017,June,6,Nathan,VISA,Food,Fast Food,Junk ,Marble Slab,9.61
+2017,June,6,Nathan,VISA,Food,Fast Food,Lunch,Pita Pit,9.59
+2017,July,7,Nathan,VISA,Food,Fast Food,Lunch,Winpak,6.73
+2017,July,7,Nathan,VISA,Food,Fast Food,Lunch,Winpak,6.22
+2017,July,7,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.48
+2017,July,7,Nathan,VISA,Food,Fast Food,Lunch,Winpak,7.06
+2017,July,7,Nathan,VISA,Food,Fast Food,Lunch,Winpak,7.06
+2017,July,7,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.03
+2017,July,7,Nathan,VISA,Food,Fast Food,Lunch,Winpak,6.73
+2017,July,7,Nathan,VISA,Food,Fast Food,Lunch,Winpak,7.06
+2017,July,7,Nathan,VISA,Food,Fast Food,Lunch,Winpak,6.73
+2017,July,7,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.59
+2017,July,7,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.48
+2017,July,7,Nathan,VISA,Food,Fast Food,Lunch,Winpak,6.22
+2017,July,7,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,July,7,Nathan,VISA,Food,Fast Food,Breakfast,McDonalds,5.06
+2017,July,7,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2017,July,7,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2017,July,7,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.37
+2017,July,7,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.37
+2017,July,7,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2017,July,7,Nathan,VISA,Food,Fast Food,Lunch,Tim Hortons,5.87
+2017,July,7,Nathan,VISA,Food,Fast Food,Supper,Tim Hortons,10.02
+2017,July,7,Nathan,VISA,Food,Fast Food,Lunch,Tim Hortons,6.77
+2017,July,7,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,July,7,Nathan,VISA,Food,Fast Food,Lunch,Tim Hortons,5.97
+2017,July,7,Nathan,VISA,Food,Restaurant,Lunch ,Stellas,29.89
+2017,July,7,Nathan,VISA,Food,Restaurant,Lunch ,Stellas,3.67
+2017,July,7,Nathan,VISA,Food,Restaurant,Supper,TH Dong,27.29
+2017,July,7,Nathan,VISA,Transportation,Gas,,Petro Canada,30.30
+2017,July,7,Nathan,VISA,Entertainment,Photography ,,ITunes,1.35
+2017,July,7,Nathan,VISA,Food,Grocery,,Safeway,4.75
+2017,July,7,Nathan,VISA,House,Renovations,,Canadian Tire,54.20
+2017,July,7,Nathan,VISA,Food,Fast Food,Lunch,Pita Pit,9.59
+2017,July,7,Nathan,VISA,Food,Fast Food,Junk ,Dairy Queen,12.41
+2017,July,7,Nathan,VISA,House,Renovations,,Home Depot,34.10
+2017,July,7,Nathan,VISA,House,Renovations,,Tree Removal,1134.00
+2017,July,7,Nathan,VISA,Entertainment,Alcohol,,Canada Inn,31.19
+2017,July,7,Nathan,VISA,Transportation,Parking,,Parking,9.00
+2017,July,7,Nathan,VISA,Food,Fast Food,Lunch ,Subway,10.17
+2017,July,7,Nathan,VISA,Food,Fast Food,Junk,Dairy Queen,6.20
+2017,July,7,Nathan,VISA,Food,Fast Food,Lunch ,Wendys,10.39
+2017,July,7,Nathan,VISA,Food,Fast Food,Lunch ,Wendys,10.39
+2017,July,7,Nathan,VISA,House,Renovations,,Rona,53.02
+2017,July,7,Nathan,VISA,House,Renovations,,Rona,147.89
+2017,July,7,Nathan,VISA,Food,Grocery,,Safeway,57.76
+2017,July,7,Nathan,VISA,Food,Fast Food,Junk,Dairy Queen,11.50
+2017,July,7,Nathan,VISA,Transportation,Gas,,Esso,48.77
+2017,July,7,Nathan,VISA,House,Renovations,,Home Depot,16.69
+2017,July,7,Nathan,VISA,Entertainment,Music,,Long and McQuade,33.88
+2017,July,7,Nathan,VISA,Personal,Haircut,,The Shop,31.25
+2017,July,7,Nathan,VISA,Food,Fast Food,Junk,Dairy Queen,6.20
+2017,July,7,Nathan,VISA,Personal,Hygeine,,Shoppers,14.85
+2017,July,7,Nathan,VISA,Entertainment,Alcohol,,LiquorMart,28.80
+2017,July,7,Nathan,VISA,Transportation,Gas,,Esso,29.52
+2017,July,7,Nathan,VISA,Entertainment,Food,Travel,Bordertown,24.68
+2017,July,7,Nathan,VISA,Entertainment,Gas,Travel,Coop,38.70
+2017,July,7,Nathan,VISA,Entertainment,Gift,Anniversary,Florists,40.68
+2017,July,7,Nathan,VISA,Entertainment,Misc,,Ticketmaster,15.00
+2017,July,7,Nathan,VISA,House,Renovations,,Rona,29.48
+2017,July,7,Nathan,VISA,House,Renovations,,Home Depot,138.20
+2017,July,7,Nathan,VISA,Transportation,Gas,,Esso,35.84
+2017,August,8,Nathan,VISA,Food,Fast Food,Supper,Tim Hortons,11.96
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.91
+2017,August,8,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.26
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.91
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.91
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.91
+2017,August,8,Nathan,VISA,Food,Fast Food,Lunch,Tim Hortons,9.12
+2017,August,8,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.26
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.91
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.91
+2017,August,8,Nathan,VISA,Food,Fast Food,Lunch,Tim Hortons,9.00
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.91
+2017,August,8,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.48
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,August,8,Nathan,VISA,Food,Fast Food,Breakfast,McDonalds,2.27
+2017,August,8,Nathan,VISA,Food,Fast Food,Breakfast,McDonalds,6.33
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.68
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.68
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.68
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,Starbucks,2.77
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,Starbucks,2.77
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,Starbucks,2.77
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,Starbucks,2.77
+2017,August,8,Nathan,VISA,Food,Fast Food,Lunch,Winpak,7.06
+2017,August,8,Nathan,VISA,Food,Fast Food,Lunch,Winpak,6.22
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,Winpak,1.36
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,Winpak,1.36
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,Winpak,1.36
+2017,August,8,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.31
+2017,August,8,Nathan,VISA,Food,Fast Food,Lunch,Winpak,5.60
+2017,August,8,Nathan,VISA,Food,Fast Food,Lunch,Winpak,9.09
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,Winpak,1.58
+2017,August,8,Nathan,VISA,Food,Fast Food,Lunch,Winpak,7.06
+2017,August,8,Nathan,VISA,Food,Restaurant,Supper,Golden Loong,60.91
+2017,August,8,Nathan,VISA,Food,Restaurant,Supper,Shwarma Khan,29.91
+2017,August,8,Nathan,VISA,Food,Fast Food,Junk,Dairy Queen,8.11
+2017,August,8,Nathan,VISA,Food,Restaurant,Supper,Cordova,36.39
+2017,August,8,Nathan,VISA,Entertainment,Alcohol,,LiquorMart,56.54
+2017,August,8,Nathan,VISA,Entertainment,Game,,Reset,25.05
+2017,August,8,Nathan,VISA,Entertainment,Game,,Reset,12.08
+2017,August,8,Nathan,VISA,Entertainment,Game,,Across the Board,82.37
+2017,August,8,Nathan,VISA,Entertainment,Game,,Across the Board,41.54
+2017,August,8,Nathan,VISA,Food,Fast Food,Junk,Max,7.44
+2017,August,8,Nathan,VISA,Food,Restaurant,Supper,Clementine,43.54
+2017,August,8,Nathan,VISA,Food,Grocery,,Chinese,22.56
+2017,August,8,Nathan,VISA,Food,Fast Food,Coffee,Second Cup,5.14
+2017,August,8,Nathan,VISA,Food,Grocery,,Safeway,24.59
+2017,August,8,Nathan,VISA,Food,Fast Food,Lunch,Winpak,5.09
+2017,August,8,Nathan,VISA,Food,Grocery,,Safeway,23.40
+2017,August,8,Nathan,VISA,Food,Grocery,,Walmart,28.60
+2017,August,8,Nathan,VISA,Entertainment,Gift,Watch,n/a,20.00
+2017,August,8,Nathan,VISA,Entertainment,Gift,Gift certificate,n/a,100.00
+2017,August,8,Nathan,VISA,Food,Grocery,,Chinese,57.97
+2017,August,8,Nathan,VISA,Entertainment,Movie,,GooglePlay,5.99
+2017,August,8,Nathan,VISA,Personal,Haircut,,The Shop,42.75
+2017,August,8,Nathan,VISA,Food,Grocery,,Safeway,9.27
+2017,August,8,Nathan,VISA,Food,Fast Food,Lunch ,Subway,13.10
+2017,August,8,Nathan,VISA,Food,Fast Food,Lunch,Winpak,6.22
+2017,August,8,Nathan,VISA,House,Renovations,,Rona,113.44
+2017,August,8,Nathan,VISA,House,Renovations,,Home Depot,54.14
+2017,August,8,Nathan,VISA,Food,Restaurant,Supper,Pho,25.99
+2017,August,8,Nathan,VISA,Personal,Hygeine,,Shoppers,27.08
+2017,August,8,Nathan,VISA,Transportation,Gas,,Esso,40.19
+2017,August,8,Nathan,VISA,Transportation,Gas,,Esso,29.68
+2017,August,8,Nathan,VISA,Transportation,Gas,,Esso,43.40
+2017,August,8,Nathan,VISA,House,Renovations,,Home Depot,61.02
+2017,August,8,Nathan,VISA,Entertainment,Music,,Spotify,9.99
+2017,August,8,Nathan,VISA,Entertainment,Photography ,,ITunes,1.99
+2017,August,8,Nathan,VISA,House,Renovations,,Home Depot,29.19
+2017,August,8,Nathan,VISA,Personal,Education,,Coursera,63.00
+2017,August,8,Nathan,VISA,Personal,Education,,P.Eng,248.60
+2017,August,8,Nathan,VISA,Personal,Misc,,PharmaPlus,1.05
+2017,August,8,Nathan,VISA,CAPEX,Car,,Honda,2000.00
+2017,February,2,Nathan,VISA,Food,Fast Food,Lunch,Tim Hortons,7.07
+2017,February,2,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,2.48
+2017,February,2,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,February,2,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2017,February,2,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2017,February,2,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,February,2,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,February,2,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,February,2,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,February,2,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2017,February,2,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2017,February,2,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2017,February,2,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2017,February,2,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,February,2,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,February,2,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,February,2,Nathan,VISA,Food,Fast Food,Breakfast,McDonalds,3.37
+2017,February,2,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,February,2,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,0.85
+2017,February,2,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,0.85
+2017,February,2,Nathan,VISA,Food,Fast Food,Lunch,Winpak,7.06
+2017,February,2,Nathan,VISA,Food,Fast Food,Lunch,Winpak,6.33
+2017,February,2,Nathan,VISA,Food,Fast Food,Lunch,Winpak,7.74
+2017,February,2,Nathan,VISA,Food,Fast Food,Lunch,Winpak,3.06
+2017,February,2,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.59
+2017,February,2,Nathan,VISA,Food,Fast Food,Lunch,Winpak,9.09
+2017,February,2,Nathan,VISA,Food,Fast Food,Lunch,Winpak,7.74
+2017,February,2,Nathan,VISA,Food,Fast Food,Lunch,Winpak,9.44
+2017,February,2,Nathan,VISA,Food,Fast Food,Lunch,Winpak,3.06
+2017,February,2,Nathan,VISA,Food,Grocery,,Superstore,51.95
+2017,February,2,Nathan,VISA,Transportation,Gas,,Esso,41.96
+2017,February,2,Nathan,VISA,Entertainment,Photography ,,ITunes,1.35
+2017,February,2,Nathan,VISA,Personal,Haircut,,The Shop,41.75
+2017,February,2,Nathan,VISA,Food,Fast Food,Coffee,Second Cup,2.09
+2017,February,2,Nathan,VISA,Food,Restaurant,Supper,Crust Pizzeria,10.49
+2017,February,2,Nathan,VISA,Entertainment,Movie,,Famous Players,7.10
+2017,February,2,Nathan,VISA,Transportation,Gas,,Coop,51.85
+2017,February,2,Nathan,VISA,Food,Fast Food,Lunch ,Pita Pit,9.36
+2017,February,2,Nathan,VISA,Food,Grocery,,Superstore,115.78
+2017,February,2,Nathan,VISA,Transportation,Gas,,Esso,37.80
+2017,February,2,Nathan,VISA,Food,Restaurant,Supper,Golden Loong,60.67
+2017,February,2,Nathan,VISA,Food,Restaurant,Supper,Momo,34.40
+2017,February,2,Nathan,VISA,Food,Fast Food,Supper ,Pizza Hut,36.71
+2017,February,2,Nathan,VISA,House,Cable/Internet,,Shaw,136.73
+2017,February,2,Nathan,VISA,Food,Restaurant,Supper,Cafe Lemon Tree,38.63
+2017,January,1,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,January,1,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,January,1,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2017,January,1,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2017,January,1,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,January,1,Nathan,VISA,Food,Fast Food,Breakfast,McDonalds,3.59
+2017,January,1,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,January,1,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2017,January,1,Nathan,VISA,Food,Fast Food,Lunch,McDonalds,8.70
+2017,January,1,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.79
+2017,January,1,Nathan,VISA,Food,Fast Food,Lunch,Tim Hortons,8.13
+2017,January,1,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,January,1,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,January,1,Nathan,VISA,Food,Fast Food,Lunch,Tim Hortons,5.17
+2017,January,1,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,January,1,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.30
+2017,January,1,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,January,1,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.96
+2017,January,1,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,January,1,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2017,January,1,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2017,January,1,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2017,January,1,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2017,January,1,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2017,January,1,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2017,January,1,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.76
+2017,January,1,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.59
+2017,January,1,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.76
+2017,January,1,Nathan,VISA,Food,Fast Food,Lunch,Winpak,10.90
+2017,January,1,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.76
+2017,January,1,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.76
+2017,January,1,Nathan,VISA,Food,Fast Food,Lunch,Winpak,9.09
+2017,January,1,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.25
+2017,January,1,Nathan,VISA,Entertainment,Airfare,Travel,Airmiles,68.38
+2017,January,1,Nathan,VISA,Entertainment,Airfare,Travel,Air Canada,77.83
+2017,January,1,Nathan,VISA,Entertainment,Airfare,Travel,Air Canada,77.83
+2017,January,1,Nathan,VISA,Entertainment,Airfare,Travel,Air Canada,72.58
+2017,January,1,Nathan,VISA,Entertainment,Misc,,Best Buy,22.59
+2017,January,1,Nathan,VISA,Food,Grocery,,Superstore,123.85
+2017,January,1,Nathan,VISA,Personal,Clothing,,The Bay,98.30
+2017,January,1,Nathan,VISA,Entertainment,Photography ,,ITunes,1.35
+2017,January,1,Nathan,VISA,Transportation,Insurance,,MPI,50.00
+2017,January,1,Nathan,VISA,Food,Grocery,,Superstore,77.95
+2017,January,1,Nathan,VISA,Food,Fast Food,Lunch ,Subway,10.04
+2017,January,1,Nathan,VISA,Transportation,Gas,,Esso,41.46
+2017,January,1,Nathan,VISA,Food,Grocery,,Superstore,47.10
+2017,January,1,Nathan,VISA,Entertainment,Misc,,Best Buy,249.89
+2017,January,1,Nathan,VISA,Entertainment,Alcohol,,LiquorMart,26.55
+2017,January,1,Nathan,VISA,Food,Fast Food,Junk,Dairy Queen,26.70
+2017,January,1,Nathan,VISA,Entertainment,Transportation,Travel,Ticket,2.75
+2017,January,1,Nathan,VISA,Entertainment,Transportation,Travel,Ticket,2.75
+2017,January,1,Nathan,VISA,Entertainment,Transportation,Travel,Ticket,13.75
+2017,January,1,Nathan,VISA,Entertainment,Transportation,Travel,Ticket,18.01
+2017,January,1,Nathan,VISA,Entertainment,Transportation,Travel,Ticket,28.10
+2017,January,1,Nathan,VISA,Entertainment,Food,Travel,Score on Davie,18.98
+2017,January,1,Nathan,VISA,Entertainment,Food,Travel,Pure Bread,9.45
+2017,January,1,Nathan,VISA,Entertainment,Food,Travel,Burger,22.89
+2017,January,1,Nathan,VISA,Entertainment,Transportation,Travel,Parking,54.00
+2017,January,1,Nathan,VISA,Entertainment,Food,Travel,Chinese,80.85
+2017,January,1,Nathan,VISA,Entertainment,Transportation,Travel,Car Rental,273.21
+2017,January,1,Nathan,VISA,Entertainment,Transportation,Travel,Parking,54.00
+2017,January,1,Nathan,VISA,Transportation,Gas,,Esso,39.02
+2017,January,1,Nathan,VISA,Entertainment,Sports,,Curling Club,16.24
+2017,January,1,Nathan,VISA,Food,Fast Food,Supper,Dominoes Pizza,20.33
+2017,January,1,Nathan,VISA,Food,Grocery,,Superstore,97.77
+2017,January,1,Nathan,VISA,House,Cable/Internet,,Shaw,136.73
+2017,January,1,Nathan,VISA,Transportation,Gas,,Esso,38.25
+2017,January,1,Nathan,VISA,Entertainment,Game,Curling,IronMan,160.00
+2017,January,1,Nathan,VISA,Food,Restaurant,Supper,TH Dong,22.60
+2016,December,12,Nathan,VISA,Entertainment,Photography ,,ITunes,1.35
+2016,December,12,Nathan,VISA,Entertainment,Accomodation,Travel,Accomodation,153.74
+2016,December,12,Nathan,VISA,Entertainment,Accomodation,Travel,Accomodation,146.68
+2016,December,12,Nathan,VISA,Entertainment,Gift,Travel,Gift,89.48
+2016,December,12,Nathan,VISA,Entertainment,Gift,Travel,Gift,249.92
+2016,December,12,Nathan,VISA,Personal,Misc,,Glasses,175.56
+2016,December,12,Nathan,VISA,Entertainment,Food,Travel,Food,82.77
+2016,December,12,Nathan,VISA,Entertainment,Food,Travel,Food,103.64
+2016,December,12,Nathan,VISA,Entertainment,Accomodation,Travel,Accomodation,766.26
+2016,December,12,Nathan,VISA,Entertainment,Food,Travel,Food,150.07
+2016,December,12,Nathan,VISA,Entertainment,Food,Travel,Food,11.59
+2016,December,12,Nathan,VISA,Food,Grocery,,Superstore,134.68
+2016,December,12,Nathan,VISA,Personal,Haircut,,The Shop,30.19
+2016,December,12,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.56
+2016,December,12,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2016,December,12,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2016,December,12,Nathan,VISA,Food,Grocery,,Superstore,9.17
+2016,December,12,Nathan,VISA,House,Renovations,,Memory Express,45.19
+2016,December,12,Nathan,VISA,Food,Fast Food,Lunch,Winpak,5.09
+2016,December,12,Nathan,VISA,Food,Fast Food,Lunch,Winpak,6.22
+2016,December,12,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2016,December,12,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2016,December,12,Nathan,VISA,Food,Grocery,,Safeway,26.20
+2016,December,12,Nathan,VISA,Food,Grocery,,Safeway,76.36
+2016,December,12,Nathan,VISA,House,Cable/Internet,,Shaw,136.73
+2016,December,12,Nathan,VISA,Transportation,Gas,,Esso,46.18
+2016,November,11,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.25
+2016,November,11,Nathan,VISA,Food,Fast Food,Lunch,Winpak,7.63
+2016,November,11,Nathan,VISA,Food,Fast Food,Lunch,Winpak,7.06
+2016,November,11,Nathan,VISA,Food,Fast Food,Lunch,Winpak,9.44
+2016,November,11,Nathan,VISA,Food,Fast Food,Lunch,Winpak,4.41
+2016,November,11,Nathan,VISA,Food,Fast Food,Coffee,Winpak,1.30
+2016,November,11,Nathan,VISA,Food,Fast Food,Coffee,Winpak,1.70
+2016,November,11,Nathan,VISA,Food,Fast Food,Lunch,Winpak,7.06
+2016,November,11,Nathan,VISA,Food,Fast Food,Lunch,Winpak,6.73
+2016,November,11,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2016,November,11,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2016,November,11,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2016,November,11,Nathan,VISA,Food,Fast Food,Lunch,Tim Hortons,8.77
+2016,November,11,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2016,November,11,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2016,November,11,Nathan,VISA,Food,Fast Food,Supper,Tim Hortons,23.82
+2016,November,11,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2016,November,11,Nathan,VISA,Food,Fast Food,Lunch,Tim Hortons,7.44
+2016,November,11,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2016,November,11,Nathan,VISA,Food,Fast Food,Supper,Tim Hortons,13.32
+2016,November,11,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2016,November,11,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2016,November,11,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2016,November,11,Nathan,VISA,Food,Fast Food,Lunch,Tim Hortons,8.13
+2016,November,11,Nathan,VISA,Food,Fast Food,Lunch,Tim Hortons,8.09
+2016,November,11,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,0.57
+2016,November,11,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2016,November,11,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2016,November,11,Nathan,VISA,Food,Fast Food,Coffee,Starbucks,2.77
+2016,November,11,Nathan,VISA,Food,Fast Food,Coffee,Starbucks,2.77
+2016,November,11,Nathan,VISA,Personal,Haircut,,The Shop,41.16
+2016,November,11,Nathan,VISA,Food,Restaurant,Supper,Pho,17.48
+2016,November,11,Nathan,VISA,Food,Restaurant,Supper,J and H,22.33
+2016,November,11,Nathan,VISA,Food,Fast Food,Lunch ,Wendys,12.63
+2016,November,11,Nathan,VISA,Food,Restaurant,Supper,TH Dong,28.25
+2016,November,11,Nathan,VISA,Food,Fast Food,Lunch ,Wendys,11.85
+2016,November,11,Nathan,VISA,Food,Restaurant,Supper,Pho,19.83
+2016,November,11,Nathan,VISA,Food,Fast Food,Lunch ,Subway,13.00
+2016,November,11,Nathan,VISA,Food,Fast Food,Lunch ,Boston Pizza,179.16
+2016,November,11,Nathan,VISA,Food,Grocery,,Superstore,114.22
+2016,November,11,Nathan,VISA,Food,Grocery,,Safeway,11.00
+2016,November,11,Nathan,VISA,Personal,Haircut,,The Shop,24.50
+2016,November,11,Nathan,VISA,Personal,Hygeine,,Shoppers,66.63
+2016,November,11,Nathan,VISA,House,Cable/Internet,,Shaw,136.73
+2016,November,11,Nathan,VISA,Entertainment,Insurance,Travel,Insurance,47.00
+2016,November,11,Nathan,VISA,Entertainment,Misc,,Best Buy,45.19
+2016,November,11,Nathan,VISA,Food,Fast Food,Coffee,Starbucks,2.77
+2016,November,11,Nathan,VISA,Transportation,Gas,,Esso,34.80
+2016,November,11,Nathan,VISA,Entertainment,Gift,Coffee ,Cornelia Beans,110.86
+2016,November,11,Nathan,VISA,Entertainment,Game,,Video Game,14.29
+2016,November,11,Nathan,VISA,Transportation,Taxi,,Taxi,27.00
+2016,November,11,Nathan,VISA,Personal,Clothing,,The Bay,70.79
+2016,November,11,Nathan,VISA,Food,Grocery,,Superstore,119.81
+2016,November,11,Nathan,VISA,Food,Grocery,,Superstore,7.32
+2016,November,11,Nathan,VISA,Transportation,Gas,,Shell,39.24
+2016,November,11,Nathan,VISA,Entertainment,Accomodation,Travel,Accomodation,196.51
+2016,November,11,Nathan,VISA,Entertainment,Misc,,Best Buy,290.60
+2016,November,11,Nathan,VISA,Entertainment,Game,,Video Game,70.00
+2016,November,11,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2016,November,11,Nathan,VISA,Entertainment,Accomodation,Travel,Accomodation,37.68
+2016,November,11,Nathan,VISA,Transportation,Gas,,Esso,36.50
+2016,November,11,Nathan,VISA,House,Renovations,,Home Depot,6.20
+2016,November,11,Nathan,VISA,House,Renovations,,Canadian Tire,145.12
+2016,September,9,Nathan,VISA,Food,Fast Food,Lunch,Winpak,5.09
+2016,September,9,Nathan,VISA,Food,Fast Food,Lunch,Winpak,9.94
+2016,September,9,Nathan,VISA,Food,Fast Food,Lunch,Winpak,5.60
+2016,September,9,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.59
+2016,September,9,Nathan,VISA,Food,Fast Food,Lunch,Winpak,8.25
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,Winpak,1.70
+2016,September,9,Nathan,VISA,Food,Fast Food,Lunch,Winpak,10.29
+2016,September,9,Nathan,VISA,Food,Fast Food,Lunch,Winpak,5.09
+2016,September,9,Nathan,VISA,Food,Fast Food,Lunch,Winpak,7.12
+2016,September,9,Nathan,VISA,Personal,Haircut,,The Shop,37.00
+2016,September,9,Nathan,VISA,Entertainment,Alcohol,,LiquorMart,33.55
+2016,September,9,Nathan,VISA,Personal,Hygeine,,Shoppers,8.46
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.68
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.68
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.68
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2016,September,9,Nathan,VISA,Food,Fast Food,Supper,Tim Hortons,14.32
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2016,September,9,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2016,September,9,Nathan,VISA,Food,Fast Food,Supper,Tim Hortons,12.06
+2016,September,9,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.12
+2016,September,9,Nathan,VISA,Food,Fast Food,Supper,Tim Hortons,13.25
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2016,September,9,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.51
+2016,September,9,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.15
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.56
+2016,September,9,Nathan,VISA,Food,Fast Food,Lunch,Tim Hortons,7.44
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2016,September,9,Nathan,VISA,Food,Fast Food,Lunch,Tim Hortons,7.15
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,Starbucks,2.77
+2016,September,9,Nathan,VISA,Food,Restaurant,Supper,Saphron,79.34
+2016,September,9,Nathan,VISA,Food,Fast Food,Lunch ,Subway,9.03
+2016,September,9,Nathan,VISA,Entertainment,Food,Travel,Food,8.45
+2016,September,9,Nathan,VISA,Entertainment,Food,Travel,Cora,37.71
+2016,September,9,Nathan,VISA,Entertainment,Transportation,Travel,Transportation,26.00
+2016,September,9,Nathan,VISA,Entertainment,Food,Travel,Burger Priest,17.82
+2016,September,9,Nathan,VISA,Entertainment,Transportation,Travel,Transportation,12.00
+2016,September,9,Nathan,VISA,Food,Fast Food,Lunch ,Boston Pizza,16.88
+2016,September,9,Nathan,VISA,Food,Fast Food,Lunch ,Olive Garden,23.60
+2016,September,9,Nathan,VISA,Food,Fast Food,Lunch ,Pizza Crust,12.97
+2016,September,9,Nathan,VISA,Food,Fast Food,Junk ,Kernels Popcorn,5.20
+2016,September,9,Nathan,VISA,Food,Fast Food,Lunch ,Subway,9.60
+2016,September,9,Nathan,VISA,Food,Restaurant,Lunch ,Stellas,46.96
+2016,September,9,Nathan,VISA,Food,Restaurant,Supper,Sushi,305.00
+2016,September,9,Nathan,VISA,Food,Restaurant,Supper,Blue Marble,75.94
+2016,September,9,Nathan,VISA,Food,Grocery,,Safeway,48.78
+2016,September,9,Nathan,VISA,Entertainment,Gift,Flowers,Flowers,47.46
+2016,September,9,Nathan,VISA,Entertainment,Comedy,,Rumours,25.95
+2016,September,9,Nathan,VISA,Entertainment,Comedy,,Rumours,6.00
+2016,September,9,Nathan,VISA,Food,Fast Food,Lunch ,Subway,10.17
+2016,September,9,Nathan,VISA,Transportation,Parking,Travel,Parking,54.00
+2016,September,9,Nathan,VISA,Food,Fast Food,Lunch ,Olive Garden,83.20
+2016,September,9,Nathan,VISA,Food,Grocery,,Safeway,5.83
+2016,September,9,Nathan,VISA,Food,Fast Food,Coffee,Starbucks,2.77
+2016,September,9,Nathan,VISA,Entertainment,Misc,,Best Buy,25.97
+2016,September,9,Nathan,VISA,Entertainment,Airfare,Travel,AirCanada,909.96
+2016,September,9,Nathan,VISA,Entertainment,Airfare,Travel,AirCanada,909.96
+2016,September,9,Nathan,VISA,Personal,Education,,EdEx,66.44
+2016,September,9,Nathan,VISA,Transportation,Gas,,Esso,44.43
+2016,September,9,Nathan,VISA,Entertainment,Book,,Chapters,55.32
+2016,September,9,Nathan,VISA,Entertainment,Visa,Travel,Chinese Visa,326.56
+2016,September,9,Nathan,VISA,House,Cable/Internet,,Shaw,136.73
+2016,September,9,Nathan,VISA,Entertainment,Alcohol,,Alcohol,50.10
+2016,September,9,Nathan,VISA,House,Phone,,Fido,108.48
+2016,September,9,Nathan,VISA,Food,Restaurant,Supper,Bodegoes,19.71
+2016,September,9,Nathan,VISA,Entertainment,Airfare,Travel,Airfare,28.00
+2016,September,9,Nathan,VISA,Entertainment,Airfare,Travel,Airfare,28.00
+2016,September,9,Nathan,VISA,Entertainment,Hockey,,Jets Tickets,302.71
+2016,September,9,Nathan,VISA,Personal ,Photography,,Photo Central,144.72
+2016,October,10,Nathan,VISA,Food,Fast Food,Lunch,Winpak,5.60
+2016,October,10,Nathan,VISA,Food,Fast Food,Lunch,Winpak,6.73
+2016,October,10,Nathan,VISA,Food,Fast Food,Lunch,Winpak,6.73
+2016,October,10,Nathan,VISA,Food,Fast Food,Lunch,Winpak,10.29
+2016,October,10,Nathan,VISA,Food,Fast Food,Lunch,Winpak,10.29
+2016,October,10,Nathan,VISA,Food,Fast Food,Lunch,Winpak,10.29
+2016,October,10,Nathan,VISA,Personal,Haircut,,The Shop,42.25
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.51
+2016,October,10,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2016,October,10,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2016,October,10,Nathan,VISA,Food,Fast Food,Supper,Tim Hortons,10.57
+2016,October,10,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2016,October,10,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2016,October,10,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.10
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2016,October,10,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.71
+2016,October,10,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2016,October,10,Nathan,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.96
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,Tim Hortons,1.80
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.91
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.79
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,Starbucks,2.77
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,Starbucks,2.77
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,Starbucks,2.77
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,Starbucks,2.77
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,Starbucks,2.77
+2016,October,10,Nathan,VISA,Food,Grocery,,Safeway,10.49
+2016,October,10,Nathan,VISA,Food,Grocery,,Safeway,32.00
+2016,October,10,Nathan,VISA,House,Cable/Internet,,Shaw,136.73
+2016,October,10,Nathan,VISA,Transportation,Gas,,Esso,43.31
+2016,October,10,Nathan,VISA,Entertainment,Airfare,Travel,Airfare,89.30
+2016,October,10,Nathan,VISA,Entertainment,Airfare,Travel,Airfare,89.30
+2016,October,10,Nathan,VISA,Food,Fast Food,Lunch ,Pizza,23.70
+2016,October,10,Nathan,VISA,Food,Fast Food,Lunch ,Subway,12.76
+2016,October,10,Nathan,VISA,Transportation,Gas,,Esso,39.41
+2016,October,10,Nathan,VISA,Entertainment,Misc,,Best Buy,14.68
+2016,October,10,Nathan,VISA,Food,Fast Food,Lunch ,Wendys,15.99
+2016,October,10,Nathan,VISA,Food,Fast Food,Lunch ,Smittys,22.12
+2016,October,10,Nathan,VISA,Personal,Fines,Traffic Ticket,Winnipeg,221.00
+2016,October,10,Nathan,VISA,Food,Fast Food,Lunch ,Pita Pit,12.18
+2016,October,10,Nathan,VISA,Food,Fast Food,Lunch ,Subway,9.16
+2016,October,10,Nathan,VISA,Food,Restaurant,Supper,Korean,29.37
+2016,October,10,Nathan,VISA,Food,Restaurant,Supper,Rustic Restaurant,25.48
+2016,October,10,Nathan,VISA,Food,Grocery,,Chinese,32.94
+2016,October,10,Nathan,VISA,Food,Fast Food,Lunch ,Olive Garden,20.56
+2016,October,10,Nathan,VISA,Transportation,Gas,,Esso,38.39
+2016,October,10,Nathan,VISA,Food,Grocery,,Chinese,30.27
+2016,October,10,Nathan,VISA,Food,Grocery,,Chinese,23.57
+2016,October,10,Nathan,VISA,Entertainment,Alcohol,,LiquorMart,112.17
+2016,October,10,Nathan,VISA,Food,Grocery,,Chinese,74.48
+2016,October,10,Nathan,VISA,Food,Restaurant,Supper,Pho,16.40
+2016,October,10,Nathan,VISA,Food,Fast Food,Coffee,McDonalds,1.80
+2016,September,9,Nathan,RBC,Utilities,Hydro,,Hydro,68.29
+2016,October,10,Nathan,RBC,Utilities,Hydro,,Hydro,74.54
+2016,October,10,Nathan,RBC,Food,Grocery,,Walmart,40.67
+2016,November,11,Nathan,RBC,Utilities,Hydro,,Hydro,92.35
+2016,November,11,Nathan,RBC,Utilities,Water,,Water,128.41
+2016,December,12,Nathan,RBC,Utilities,Hydro,,Hydro,104.50
+2017,January,1,Nathan,RBC,Utilities,Hydro,,Hydro,136.89
+2017,February,2,Nathan,RBC,Utilities,Hydro,,Hydro,120.41
+2017,February,2,Nathan,RBC,Utilities,Water,,Water,153.94
+2017,March,3,Nathan,RBC,Utilities,Hydro,,Hydro,135.45
+2017,April,4,Nathan,RBC,Utilities,Hydro,,Hydro,106.11
+2017,April,4,Nathan,VISA,House,Renovations,,Home Depot,1485.27
+2017,May,5,Nathan,RBC,Utilities,Hydro,,Hydro,136.01
+2017,May,5,Nathan,VISA,House,Renovations,,Canadian Tire,19.20
+2017,May,5,Nathan,RBC,Utilities,Water,,Water,140.59
+2017,June,6,Nathan,RBC,Utilities,Hydro,,Hydro,72.95
+2017,June,6,Nathan,VISA,Food,Restaurant,Supper,Sun Fortune,48.76
+2017,July,7,Nathan,RBC,Utilities,Hydro,,Hydro,95.49
+2017,July,7,Nathan,VISA,House,Cable/Internet,,Bell/MTS,116.60
+2017,August,8,Nathan,RBC,Utilities,Hydro,,Hydro,57.49
+2017,August,8,Nathan,RBC,Utilities,Water,,Water,141.66
+2017,August,8,Nathan,VISA,House,Cable/Internet,,Bell/MTS,79.10
+2017,August,8,Amy,VISA,House,Phone,,Rogers,317.04
+2017,August,8,Amy,VISA,Food,Fast Food,Lunch ,Sushi,13.28
+2017,August,8,Amy,VISA,Entertainment,Misc,,MB Museum,20.00
+2017,August,8,Amy,VISA,Food,Grocery,,Superstore,125.52
+2017,August,8,Amy,VISA,Transportation,Gas,,Esso,33.88
+2017,August,8,Amy,VISA,Food,Fast Food,Breakfast,Tim Hortons,2.69
+2017,August,8,Amy,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.50
+2017,August,8,Amy,VISA,House,Baby,,Toy r Us,50.91
+2017,August,8,Amy,VISA,Food,Fast Food,Coffee,Parlour ,3.00
+2017,August,8,Amy,VISA,Food,Fast Food,Lunch ,Pizza,13.56
+2017,August,8,Amy,VISA,House,Baby,,Etsy,72.25
+2017,August,8,Amy,VISA,House,Baby,,Milk Maid,54.60
+2017,August,8,Amy,VISA,Food,Fast Food,Lunch ,Seoul Nami,10.00
+2017,August,8,Amy,VISA,Food,Fast Food,Breakfast,Cookies by Geroge,2.75
+2017,August,8,Amy,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.27
+2017,August,8,Amy,VISA,Food,Grocery,,Superstore,155.48
+2017,August,8,Amy,VISA,Personal,Health,,Chiropractor,8.00
+2017,August,8,Amy,VISA,Food,Fast Food,Breakfast,Tim Hortons,1.12
+2017,August,8,Amy,VISA,House,Baby,,Best Buy,62.98
+2017,August,8,Amy,VISA,House,Baby,,Well,101.35
+2017,August,8,Amy,VISA,House,Phone,,Rogers,142.44
+2017,August,8,Amy,VISA,House,Baby,,Best Buy,81.35
+2017,August,8,Amy,VISA,Food,Fast Food,Lunch ,The Conerstone,2.25
+2017,August,8,Amy,VISA,House,Baby,,Toy r Us,60.26
+2017,August,8,Amy,VISA,Food,Fast Food,Junk ,Ikea,2.83
+2017,July,7,Amy,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.78
+2017,July,7,Amy,VISA,Food,Fast Food,Lunch ,Better Than Babas,11.50
+2017,July,7,Amy,VISA,Food,Fast Food,Lunch ,Marcello,7.31
+2017,July,7,Amy,VISA,Food,Fast Food,Breakfast,Tim Hortons,1.57
+2017,July,7,Amy,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.82
+2017,July,7,Amy,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.71
+2017,July,7,Amy,VISA,Food,Fast Food,Breakfast,Tim Hortons,5.57
+2017,July,7,Amy,VISA,Food,Fast Food,Lunch ,La Grotta,7.10
+2017,July,7,Amy,VISA,Personal ,Health,,Moksha Yoga,260.00
+2017,July,7,Amy,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.93
+2017,July,7,Amy,VISA,Personal ,Health,,Chiropractor,8.00
+2017,July,7,Amy,VISA,Food,Fast Food,Lunch ,Taste of SriLanka ,11.00
+2017,July,7,Amy,VISA,Personal ,Health,,Chiropractor,8.00
+2017,July,7,Amy,VISA,Food,Grocery,,Safeway,24.31
+2017,July,7,Amy,VISA,Food,Fast Food,Breakfast,McDonalds,4.37
+2017,July,7,Amy,VISA,Transportation,Gas,,Esso,28.83
+2017,July,7,Amy,VISA,House,Baby,,Sherwin Williams,77.25
+2017,July,7,Amy,VISA,Personal ,Health,,Chiropractor,8.00
+2017,July,7,Amy,VISA,Food,Grocery,,Safeway,87.31
+2017,July,7,Amy,VISA,Food,Fast Food,Lunch ,Booster Juice ,7.40
+2017,July,7,Amy,VISA,Food,Fast Food,Breakfast,Cookies by Geroge,2.95
+2017,July,7,Amy,VISA,Personal ,Hygeine,,Shoppers,19.10
+2017,June ,6,Amy,VISA,Food,Fast Food ,Lunch ,Seoul Nami,11.00
+2017,June ,6,Amy,VISA,Personal ,Hygeine,,Shoppers,6.81
+2017,June ,6,Amy,VISA,Food,Fast Food ,Lunch ,Marcello,12.26
+2017,June ,6,Amy,VISA,Food,Fast Food ,Breakfast,Cookies by Geroge,2.95
+2017,June ,6,Amy,VISA,Food ,Grocery ,,Safeway,22.59
+2017,June ,6,Amy,VISA,Food ,Restaurant ,Supper,Sun Fortune,78.34
+2017,June ,6,Amy,VISA,Food,Fast Food ,Breakfast,Tim Hortons,1.23
+2017,June ,6,Amy,VISA,Food,Fast Food ,Lunch ,Marcello,8.32
+2017,June ,6,Amy,VISA,Food,Fast Food ,Lunch ,Cafe ,3.76
+2017,June ,6,Amy,VISA,Food,Fast Food ,Lunch,Tim Hortons,6.40
+2017,June ,6,Amy,VISA,Food,Fast Food ,Lunch ,Vietnamese ,8.75
+2017,June ,6,Amy,VISA,Food ,Grocery ,,Superstore,205.19
+2017,June ,6,Amy,VISA,House,Baby ,,Best Buy,472.49
+2017,June ,6,Amy,VISA,Food,Fast Food ,Breakfast,Tim Hortons,3.08
+2017,June ,6,Amy,VISA,Food,Grocery ,,Chinese  ,20.15
+2017,June ,6,Amy,VISA,Entertainment,Alcohol,,LiquorMart,33.47
+2017,June ,6,Amy,VISA,Food ,Grocery ,,Safeway,19.14
+2017,June ,6,Amy,VISA,Food,Fast Food ,Supper,McDonalds,25.27
+2017,June ,6,Amy,VISA,Entertainment,Food,Travel,Paint Lake Lodge ,8.49
+2017,June ,6,Amy,VISA,Food,Fast Food ,Lunch ,Marcello,2.07
+2017,June ,6,Amy,VISA,Food,Fast Food ,Breakfast,Cookies by Geroge,2.95
+2017,June ,6,Amy,VISA,Food,Fast Food ,Lunch ,Marcello,2.89
+2017,June ,6,Amy,VISA,Food,Fast Food ,Breakfast,Cookies by Geroge,2.95
+2017,June ,6,Amy,VISA,Food ,Grocery ,,Superstore,122.04
+2017,June ,6,Amy,VISA,Personal ,Health ,,Chiropractor,8.00
+2017,June ,6,Amy,VISA,Transportation ,Transit ,,Winnipeg Transit ,30.00
+2017,June ,6,Amy,VISA,Food,Fast Food ,Breakfast,Tim Hortons,1.80
+2017,June ,6,Amy,VISA,Food,Fast Food ,Breakfast,Tim Hortons,3.80
+2017,June ,6,Amy,VISA,Personal ,Clothing ,,Thyme Maternity ,113.95
+2017,June ,6,Amy,VISA,House ,Baby ,,Toy r Us,341.22
+2017,June ,6,Amy,VISA,Personal ,Health ,,Chiropractor,8.00
+2017,June ,6,Amy,VISA,Food,Fast Food ,Lunch ,Marcello,2.38
+2017,June ,6,Amy,VISA,Food,Fast Food ,Breakfast,Cookies by Geroge,2.95
+2017,June ,6,Amy,VISA,Food,Fast Food ,Lunch,Tim Hortons,7.21
+2017,June ,6,Amy,VISA,Entertainment,Gift ,,Hatley ,35.34
+2017,May ,5,Amy ,VISA,Food ,Grocery ,,Superstore,95.10
+2017,May ,5,Amy ,VISA,Food,Fast Food ,Lunch,McDonalds,6.20
+2017,May ,5,Amy ,VISA,Food ,Grocery ,,Chinese ,27.99
+2017,May ,5,Amy ,VISA,Food ,Grocery ,,Chinese ,27.96
+2017,May ,5,Amy ,VISA,House,Phone,,Rogers ,180.79
+2017,May ,5,Amy ,VISA,Food ,Grocery ,,Superstore,128.97
+2017,May ,5,Amy ,VISA,House ,Renovations,,Canadian Tire,23.27
+2017,May ,5,Amy ,VISA,House ,Baby ,,Bed Bath Beyond,33.87
+2017,May ,5,Amy ,VISA,Transportation ,Gas ,,Esso ,39.26
+2017,May ,5,Amy ,VISA,Food,Fast Food ,Breakfast,Cookies by Geroge,2.95
+2017,May ,5,Amy ,VISA,Food,Fast Food ,Breakfast,Tim Hortons,2.58
+2017,May ,5,Amy ,VISA,Food,Fast Food ,Lunch ,King Bannatyne ,15.54
+2017,May ,5,Amy ,VISA,House ,Baby ,,Well ,100.83
+2017,May ,5,Amy ,VISA,Personal ,Hygeine,,Shoppers,13.38
+2017,May ,5,Amy ,VISA,Transportation ,Transit ,,Winnipeg Transit ,50.00
+2017,May ,5,Amy ,VISA,Food,Fast Food ,Breakfast,Tim Hortons,4.95
+2017,May ,5,Amy ,VISA,Entertainment ,Gift ,,Anthropologie ,79.10
+2017,May ,5,Amy ,VISA,Personal ,Health ,,Moksha Yoga,420.00
+2017,May ,5,Amy ,VISA,Food ,Grocery ,,Safeway,22.40
+2017,May ,5,Amy ,VISA,Food ,Grocery ,,Superstore,95.62
+2017,May ,5,Amy ,VISA,Personal ,Clothing ,,Banana Republic ,36.16
+2017,May ,5,Amy ,VISA,Personal ,Clothing ,,Sask off ,62.13
+2017,May ,5,Amy ,VISA,Food,Fast Food ,Lunch ,KFC ,6.77
+2017,May ,5,Amy ,VISA,Transportation ,Gas ,,Esso ,34.55
+2017,May ,5,Amy ,VISA,House ,Phone ,,Rogers ,129.95
+2017,May ,5,Amy ,VISA,Food ,Fast Food ,Lunch,Tim Hortons,11.21
+2017,April ,4,Amy ,VISA,Food ,Fast Food ,Breakfast,Tim Hortons,1.68
+2017,April ,4,Amy ,VISA,House ,Renovations,,Balcaen and Sons,175.75
+2017,April ,4,Amy ,VISA,Food ,Fast Food ,Lunch ,Vietnamese ,8.75
+2017,April ,4,Amy ,VISA,Food ,Fast Food ,Breakfast,Cookies by Geroge,2.95
+2017,April ,4,Amy ,VISA,Food ,Fast Food ,Lunch ,Booster Juice ,7.29
+2017,April ,4,Amy ,VISA,Food ,Fast Food ,Breakfast,Cookies by Geroge,4.50
+2017,April ,4,Amy ,VISA,Food ,Fast Food ,Lunch ,Fish and Chip ,14.10
+2017,April ,4,Amy ,VISA,Food ,Grocery ,,Chinese ,6.45
+2017,April ,4,Amy ,VISA,Food ,Fast Food ,Lunch,Tim Hortons,5.57
+2017,April ,4,Amy ,VISA,Food ,Fast Food ,Lunch ,Pizza Hotline ,13.56
+2017,April ,4,Amy ,VISA,Personal ,Hygeine,,Shoppers,1.81
+2017,April ,4,Amy ,VISA,Personal ,Hygeine,,Shoppers,12.24
+2017,April ,4,Amy ,VISA,House ,Phone ,,Rogers,134.42
+2017,April ,4,Amy ,VISA,Food ,Fast Food ,Lunch ,Nathan Detroit ,15.55
+2017,April ,4,Amy ,VISA,Food ,Fast Food ,Lunch ,One Drinks ,5.59
+2017,April ,4,Amy ,VISA,Food ,Restaurant ,Supper,Pho ,83.35
+2017,April ,4,Amy ,VISA,Food ,Grocery ,,Superstore,83.46
+2017,April ,4,Amy ,VISA,Personal ,Health ,,Olympic Cycle ,757.10
+2017,April ,4,Amy ,VISA,Food ,Fast Food ,Lunch ,King Bannatyne ,30.40
+2017,April ,4,Amy ,VISA,Personal ,Donation ,,MS society ,50.00
+2017,April ,4,Amy ,VISA,Food ,Fast Food ,Lunch ,Greek ,7.01
+2017,April ,4,Amy ,VISA,Food ,Fast Food ,Breakfast,Cookies by Geroge,2.95
+2017,April ,4,Amy ,VISA,Food ,Fast Food ,Lunch ,Cibo ,13.93
+2017,April ,4,Amy ,VISA,Transportation ,Gas ,,Esso ,38.42
+2017,April ,4,Amy ,VISA,Food ,Fast Food ,Breakfast,Tim Hortons,3.91
+2017,April ,4,Amy ,VISA,Transportation ,Transit ,,Winnipeg Transit ,30.00
+2017,April ,4,Amy ,VISA,Entertainment ,Movie,,Cineplex ,8.55
+2017,April ,4,Amy ,VISA,Entertainment ,Movie,,Cineplex ,8.55
+2017,April ,4,Amy ,VISA,Food ,Fast Food ,Lunch ,Marcello,5.95
+2017,April ,4,Amy ,VISA,Food ,Fast Food ,Coffee,Parlour ,3.00
+2017,April ,4,Amy ,VISA,Food ,Grocery ,,Superstore,93.86
+2017,April ,4,Amy ,VISA,Food ,Grocery ,,Chinese ,34.26
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Breakfast,Tim Hortons,6.00
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Lunch ,Global Fine Foods ,4.75
+2017,March ,3,Amy ,VISA,Food ,Restaurant ,Supper,Pancake House ,81.78
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Lunch,Tim Hortons,9.69
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Breakfast,Tim Hortons,2.70
+2017,March ,3,Amy ,VISA,Personal ,Donation ,,UWO ,100.00
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Lunch ,Booster Juice ,7.06
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Lunch ,Marcello,2.51
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Lunch ,Cafeteria ,9.24
+2017,March ,3,Amy ,VISA,Transportation ,Transit ,,Winnipeg Transit ,50.00
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Lunch ,Affinity ,36.54
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Lunch ,Marcello,10.72
+2017,March ,3,Amy ,VISA,Food ,Grocery ,,Superstore,128.00
+2017,March ,3,Amy ,VISA,Food ,Grocery ,,Chinese ,74.99
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Breakfast,Tim Hortons,3.30
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Breakfast,Cookies by Geroge,2.95
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Lunch ,Cafeteria ,7.25
+2017,March ,3,Amy ,VISA,House ,Phone ,,Rogers,129.95
+2017,March ,3,Amy ,VISA,Personal ,Clothing ,,Aritzia ,73.45
+2017,March ,3,Amy ,VISA,Personal ,Clothing ,,BCBG ,78.31
+2017,March ,3,Amy ,VISA,Personal ,Clothing ,,Browns ,1478.54
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Coffee,Davids Tea,9.33
+2017,March ,3,Amy ,VISA,Personal ,Hygeine,,Shoppers,36.71
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Breakfast,Cookies by Geroge,2.95
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Breakfast,Tim Hortons,4.95
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Lunch ,Subway ,7.10
+2017,March ,3,Amy ,VISA,Personal ,Hygeine,,Shoppers,1.81
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Lunch ,Marcello,6.34
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Lunch ,Taste of SriLanka ,9.89
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Lunch,Tim Hortons,6.79
+2017,March ,3,Amy ,VISA,Personal ,Clothing ,,Thyme Maternity ,119.55
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Lunch ,Taste of SriLanka ,10.35
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Supper ,Thai Express ,12.69
+2017,March ,3,Amy ,VISA,Transportation ,Gas ,,Co-op ,38.00
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Coffee,Parlour ,4.25
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Lunch,Tim Hortons,9.02
+2017,March ,3,Amy ,VISA,Food ,Grocery ,,Safeway,49.38
+2017,March ,3,Amy ,VISA,Food ,Fast Food ,Lunch ,Subway ,10.16
+2017,February,2,Amy ,VISA,Personal,Clothing ,,Thyme Maternity ,126.51
+2017,February,2,Amy ,VISA,Food,Fast Food ,Supper,Thai Express ,10.15
+2017,February,2,Amy ,VISA,Entertainment,Movie,,Famous Players,16.50
+2017,February,2,Amy ,VISA,Food,Fast Food ,Breakfast,Tim Hortons,4.50
+2017,February,2,Amy ,VISA,Transportation,Transit,,Winnipeg Transit ,30.00
+2017,February,2,Amy ,VISA,Food,Fast Food ,Lunch ,Seoul Nami,10.00
+2017,February,2,Amy ,VISA,Personal,Hygeine,,Shoppers,12.40
+2017,February,2,Amy ,VISA,Personal,Haircut,,Edward Carrier,49.05
+2017,February,2,Amy ,VISA,Food,Grocery ,,Superstore,107.66
+2017,February,2,Amy ,VISA,Food,Fast Food ,Supper ,Smittys,3.22
+2017,February,2,Amy ,VISA,Food,Fast Food ,Lunch,Tim Hortons,5.87
+2017,February,2,Amy ,VISA,Food,Grocery ,,Superstore,54.24
+2017,February,2,Amy ,VISA,Transportation,Gas ,,Coop,39.00
+2017,February,2,Amy ,VISA,Food,Fast Food ,Lunch ,Marcello,9.01
+2017,February,2,Amy ,VISA,Food,Fast Food ,Breakfast,Tim Hortons,1.57
+2017,February,2,Amy ,VISA,Food,Fast Food ,Lunch ,Taste of SriLanka ,9.89
+2017,February,2,Amy ,VISA,Food,Fast Food ,Lunch ,Woks,8.35
+2017,February,2,Amy ,VISA,Personal,Hygeine,,Shoppers,58.12
+2017,February,2,Amy ,VISA,Food,Grocery ,,Safeway,82.13
+2017,February,2,Amy ,VISA,Food,Fast Food ,Lunch ,Marcello,9.22
+2017,January,1,Amy,VISA,Entertainment,Gift ,,Indigo,42.59
+2017,January,1,Amy,VISA,Food,Fast Food ,Lunch,Tim Hortons,9.47
+2017,January,1,Amy,VISA,House,Phone ,,Rogers,129.95
+2017,January,1,Amy,VISA,Food,Grocery ,,Superstore,48.49
+2017,January,1,Amy,VISA,Food,Fast Food ,Lunch ,Cafeteria ,7.00
+2017,January,1,Amy,VISA,Food,Fast Food ,Lunch ,Seoul Nami,10.00
+2017,January,1,Amy,VISA,Food,Fast Food ,Lunch ,Cafeteria ,3.76
+2017,January,1,Amy,VISA,Food,Fast Food ,Lunch ,Tall Grass Prairie,7.30
+2017,January,1,Amy,VISA,Food,Restaurant,Supper,Beachcomber,41.08
+2017,January,1,Amy,VISA,Food,Fast Food ,Lunch ,Subway ,5.97
+2017,January,1,Amy,VISA,Food,Fast Food ,Lunch ,Marcello,7.00
+2017,January,1,Amy,VISA,Personal,Hygeine,,Shoppers,41.31
+2017,January,1,Amy,VISA,Food,Fast Food ,Breakfast,Tim Hortons,4.50
+2017,January,1,Amy,VISA,Food,Fast Food ,Lunch ,Taste of SriLanka ,11.02
+2017,January,1,Amy,VISA,House,Phone,,Rogers,129.95
+2016,December,12,Amy,VISA,Entertainment,Gift ,Travel,Gift,71.48
+2016,December,12,Amy,VISA,Entertainment,Gift ,Travel,Gift,720.46
+2016,December,12,Amy,VISA,Food,Grocery,,Chinese,52.05
+2016,December,12,Amy,VISA,House,Phone,,Rogers,129.95
+2016,December,12,Amy,VISA,Personal,Hygeine,,Paradise Winnipeg,5.64
+2016,December,12,Amy,VISA,Food,Fast Food ,Coffee,Second Cup,3.57
+2016,December,12,Amy,VISA,Personal ,Clothing,,Eaton's Center,180.74
+2016,December,12,Amy,VISA,Personal ,Clothing,,Eaton's Center,39.54
+2016,December,12,Amy,VISA,Personal,Hygeine,,Shoppers,9.48
+2016,December,12,Amy,VISA,Food,Fast Food,Lunch ,Rich Tree,3.72
+2016,December,12,Amy,VISA,Personal,Hygeine,,Faceshop,15.82
+2016,December,12,Amy,VISA,Personal,Hygeine,,Armor,38.47
+2016,December,12,Amy,VISA,Food,Restaurant,Supper,Coquing,35.51
+2016,December,12,Amy,VISA,Food,Fast Food,Lunch ,Aroma,4.80
+2016,December,12,Amy,VISA,Personal,Clothing,,Eaton's Center,328.16
+2016,December,12,Amy,VISA,Personal,Clothing,,SportChek,99.86
+2016,December,12,Amy,VISA,Food,Fast Food,Lunch ,Seoul Nami,10.00
+2016,December,12,Amy,VISA,Food,Fast Food,Lunch ,Woks,5.10
+2016,December,12,Amy,VISA,Food,Fast Food,Lunch ,Meltwich,13.09
+2016,December,12,Amy,VISA,Transportation,Insurance,Car Insurance,MPI,1549.00
+2016,December,12,Amy,VISA,Personal,Credit Card,Annual Fee,VISA,120.00
+2016,November,11,Amy,VISA,Food,Fast Food,Lunch ,Vietnamese ,28.97
+2016,November,11,Amy,VISA,Entertainment,Gift,,Cornelia Bean,204.06
+2016,November,11,Amy,VISA,Food,Fast Food,Lunch ,Seoul Nami,10.00
+2016,November,11,Amy,VISA,Personal,Haircut,,Edward Carrier,24.27
+2016,November,11,Amy,VISA,Food,Fast Food,Lunch ,Vietnamese ,8.75
+2016,November,11,Amy,VISA,Transportation,Transit,,Winnipeg Transit ,30.00
+2016,November,11,Amy,VISA,Food,Restaurant,Supper,Moxies,24.68
+2016,November,11,Amy,VISA,Personal,Hygeine,,Shoppers,64.33
+2016,November,11,Amy,VISA,Personal,Hygeine,,Duty Free,35.00
+2016,November,11,Amy,VISA,Entertainment,Gift,,Ice Wine,229.15
+2016,October,10,Amy,VISA,House,Phone,,Rogers,195.02
+2016,October,10,Amy,VISA,Food,Fast Food,Breakfast,Tim Hortons,1.57
+2016,October,10,Amy,VISA,Food,Fast Food,Lunch ,Freshii,10.15
+2016,October,10,Amy,VISA,Food,Fast Food,Lunch,Tim Hortons,9.07
+2016,October,10,Amy,VISA,Food,Grocery,,Chinese,25.90
+2016,October,10,Amy,VISA,Food,Grocery,,Superstore,35.28
+2016,October,10,Amy,VISA,Personal,Misc,Dry Cleaning,Perth Winnipeg,22.43
+2016,October,10,Amy,VISA,Personal,Hygeine,,Shoppers,63.03
+2016,October,10,Amy,VISA,Food,Fast Food,Supper,Tim Hortons,13.54
+2016,October,10,Amy,VISA,Food,Fast Food,Junk,Kernels Popcorn,13.47
+2016,October,10,Amy,VISA,Entertainment,Gift,,Roots,33.90
+2016,October,10,Amy,VISA,Entertainment,Gift,,Jets Gear,24.85
+2016,October,10,Amy,VISA,Entertainment,Gift,,Mastermind,67.78
+2016,October,10,Amy,VISA,Food,Fast Food,Lunch ,Marcello,5.63
+2016,October,10,Amy,VISA,Food,Fast Food,Lunch,Tim Hortons,6.77
+2016,October,10,Amy,VISA,House,Phone,Cell phone protector,Best Buy,14.68
+2016,October,10,Amy,VISA,Food,Fast Food,Lunch ,Affinity ,26.23
+2016,October,10,Amy,VISA,Food,Fast Food,Lunch ,Wendys,4.95
+2016,October,10,Amy,VISA,Entertainment,Movie,,Cineplex ,5.85
+2016,October,10,Amy,VISA,Entertainment,Movie,,Cineplex ,5.85
+2016,October,10,Amy,VISA,Food,Fast Food,Coffee,Parlour ,4.00
+2016,October,10,Amy,VISA,Food,Fast Food,Lunch ,Marcello,6.18
+2016,October,10,Amy,VISA,Food,Fast Food,Breakfast,Tim Hortons,2.70
+2016,October,10,Amy,VISA,Food,Fast Food,Lunch ,Deer and Almond,8.91
+2016,October,10,Amy,VISA,Food,Grocery,,Superstore,148.00
+2016,October,10,Amy,VISA,House,Phone,,Rogers,135.60
+2016,October,10,Amy,VISA,Personal,Clothing,Dry Clean,Perth Winnipeg,23.63
+2016,September,9,Amy,VISA,Food,Fast Food,Lunch ,Meltwich,8.25
+2016,September,9,Amy,VISA,Personal,Donation,,Motion Ball,25.00
+2016,September,9,Amy,VISA,Personal,Clothing,,Victoria Secret,33.84
+2016,September,9,Amy,VISA,Food,Grocery,,Chinese,40.72
+2016,September,9,Amy,VISA,Food,Grocery,,Superstore,73.84
+2016,September,9,Amy,VISA,Personal,Clothing,,Michael Kors,370.64
+2016,September,9,Amy,VISA,Food,Fast Food,Lunch ,A&W,3.96
+2016,September,9,Amy,VISA,Entertainment,Misc,,Human Rights Museum,28.20
+2016,September,9,Amy,VISA,Entertainment,Misc,,Human Rights Museum,38.93
+2016,September,9,Amy,VISA,Entertainment,Gift,Cards,Tiny Feast,7.91
+2016,September,9,Amy,VISA,Food,Fast Food,Breakfast,Tim Hortons,3.61
+2016,September,9,Amy,VISA,Food,Restaurant,Supper,Verity,54.00
+2016,September,9,Amy,VISA,Food,Fast Food,Breakfast,Tim Hortons,4.50
+2016,September,9,Amy,VISA,Food,Restaurant,Supper,Blue Fish,19.23
+2016,September,9,Amy,VISA,Food,Restaurant,Supper,Cibo ,33.15
+2016,September,9,Amy,VISA,Entertainment,Misc,,Best Buy,21.45
+2016,September,9,Amy,VISA,Food,Grocery,,Superstore,88.59
+2016,September,9,Amy,VISA,Food,Grocery,,Chinese,10.95
+2016,September,9,Amy,VISA,Transportation,Gas ,,Esso ,38.51
+2016,September,9,Amy,VISA,Food,Restaurant,Supper,Argentina Pizza,30.85
+2016,September,9,Amy,VISA,Food,Grocery,,Superstore,29.47
+2016,September,9,Amy,VISA,Entertainment,Gift,,360 Hair Nails,42.74
+2016,September,9,Amy,VISA,Food,Fast Food,Lunch ,Vietnamese ,8.75
+2016,September,9,Amy,VISA,Personal,Hygeine,,Shoppers,7.90
+2016,September,9,Amy,VISA,Transportation,Transit,,Winnipeg Transit ,30.00
+2016,September,9,Amy,VISA,Entertainment,Curling,,Curling,14.54
+2016,September,9,Amy,MASTERCARD,Food,Grocery,,Costco,460.24
+2016,September,9,Amy,MASTERCARD,Personal,Education,,ITunes,96.04
+2016,September,9,Amy,MASTERCARD,Entertainment,Photography,,Adobe,14.13
+2016,September,9,Amy,MASTERCARD,Personal,Credit Card,Annual Fee,Mastercard,120.00
+2016,October,10,Amy,MASTERCARD,Food,Grocery,,Costco,55.09
+2016,October,10,Amy,MASTERCARD,Food,Grocery,,Costco,187.22
+2016,October,10,Amy,MASTERCARD,Food,Grocery,,Costco,15.23
+2016,October,10,Amy,MASTERCARD,Food,Grocery,,Safeway,12.60
+2016,October,10,Amy,MASTERCARD,Entertainment,Alcohol,,LiquorMart,40.66
+2016,October,10,Amy,MASTERCARD,Food,Fast Food,Coffee,Starbucks,25.00
+2016,November,11,Amy,MASTERCARD,Personal,Donation,KPMG,Movember,50.00
+2016,November,11,Amy,MASTERCARD,Entertainment,Photography,,Adobe,14.39
+2016,December,12,Amy,MASTERCARD,Entertainment,Photography,,Adobe,14.39
+2017,January,1,Amy,MASTERCARD,Food,Fast Food,Coffee,Starbucks,25.00
+2017,January,1,Amy,MASTERCARD,Personal,Education,,ITunes,3.38
+2017,January,1,Amy,MASTERCARD,Entertainment,Photography,,Adobe,14.07
+2017,February,2,Amy,MASTERCARD,Food,Grocery,,Costco,297.84
+2017,February,2,Amy,MASTERCARD,Food,Fast Food,Coffee,Starbucks,25.00
+2017,February,2,Amy,MASTERCARD,Entertainment,Photography,,Adobe,14.35
+2017,March ,3,Amy,MASTERCARD,Entertainment,Photography,,Adobe,14.37
+2017,March ,3,Amy,MASTERCARD,Food,Grocery,,Costco,224.27
+2017,March ,3,Amy,MASTERCARD,Food,Grocery,,Costco,14.67
+2017,April ,4,Amy,MASTERCARD,Entertainment,Photography,,Adobe,14.70
+2017,April ,4,Amy,MASTERCARD,Food,Grocery,,Safeway,31.05
+2017,May,5,Amy,MASTERCARD,Food,Grocery,,Costco,335.21
+2017,May,5,Amy,MASTERCARD,Food,Fast Food,Lunch ,Dancing Noodle,46.90
+2017,May,5,Amy,MASTERCARD,Transportation,Insurance,Car ,MPI,967.00
+2017,May,5,Amy,MASTERCARD,Food,Fast Food,Coffee,Starbucks,25.00
+2017,May,5,Amy,MASTERCARD,Food,Grocery,,Costco,89.99
+2017,May,5,Amy,MASTERCARD,Entertainment,Photography,,Adobe,14.53
+2017,June,6,Amy,MASTERCARD,Entertainment,Photography,,Adobe,13.98
+2017,June,6,Amy,MASTERCARD,House,Baby,,St. Boniface,52.50
+2017,June,6,Amy,MASTERCARD,Food,Grocery,,Costco,271.06
+2017,June,6,Amy,MASTERCARD,Food,Grocery,,Costco,284.02
+2017,June,6,Amy,MASTERCARD,Food,Grocery,,Costco,8.81
+2017,June,6,Amy,MASTERCARD,Food,Fast Food,Coffee,Starbucks,25.00
+2017,July,7,Amy,MASTERCARD,Entertainment,Photography,,Adobe,13.48
+2017,July,7,Amy,MASTERCARD,Food,Grocery,,Costco,189.40
+2017,August,8,Amy,MASTERCARD,Entertainment,Photography,,Adobe,13.42
+2017,August,8,Amy,MASTERCARD,Food,Grocery,,Costco,133.21
+2017,August,8,Amy,MASTERCARD,Food,Grocery,,Costco,285.70
+2016,October,10,Amy,RBC,Entertainment,Curling,,Curling,370.00
+2016,December,12,Amy,RBC,Entertainment,Misc,Travel,Travel,199.93
+2016,December,12,Amy,RBC,Entertainment,Misc,Travel,Travel,199.86
+2016,December,12,Amy,RBC,Entertainment,Misc,Travel,Travel,10.00
+2016,December,12,Nathan,AMEX,Entertainment,Gift,,Gift,89.99
+2017,February,2,Amy,RBC,Food,Fast Food,Lunch ,Greek,10.75
+2017,February,2,Nathan,RBC,Personal,Health ,,Massage Chair,300.00
+2017,March ,3,Amy,RBC,Transportation,Carpool,,James Carpool,140.00
+2017,March ,3,Nathan,RBC,Cash,Withdrawal,,Cash Withdrawal,90.00
+2017,March ,3,Nathan,RBC,Entertainment,Sports,,Jets Tickets,144.60
+2017,March ,3,Nathan,RBC,Cash,Withdrawal,,Cash Withdrawal,100.00
+2017,April ,4,Nathan,RBC,Entertainment,Sports,,Soccer League,140.00
+2017,April ,4,Nathan,RBC,Cash,Withdrawal,,Cash Withdrawal,35.04
+2017,April ,4,Nathan,RBC,Cash,Withdrawal,,Cash Withdrawal,88.47
+2017,April ,4,Nathan,RBC,Food,Fast Food,Lunch ,Subway ,13.10
+2017,April ,4,Nathan,RBC,House,Renovations,,Canadian Tire,45.19
+2017,April ,4,Nathan,RBC,House,Renovations,,Home Depot,1485.27
+2017,May,5,Nathan,RBC,Entertainment,Sports,,Jets Tickets,240.16
+2017,May,5,Nathan,RBC,CAPEX,Car,,Pilot Purchase,35682.83
+2017,May,5,Nathan,RBC,Cash,Withdrawal,,Cash Withdrawal,260.00
+2017,May,5,Nathan,RBC,Entertainment,Sports,,Jets Tickets,253.08
+2017,June,6,Nathan,RBC,Cash,Withdrawal,,Cash Withdrawal,80.00
+2017,June,6,Nathan,RBC,House,Renovations,,Foundation Repair,1260.00
+2017,June,6,Nathan,RBC,Food,Restaurant,Supper,Sun Fortune,48.76
+2017,July,7,Nathan,RBC,Cash,Withdrawal,,Cash Withdrawal,80.00
+2017,August,8,Nathan,RBC,Cash,Withdrawal,,Cash Withdrawal,80.00
+2017,June ,6,Amy ,RBC,House ,Property tax,,Winnipeg  ,3549.62
